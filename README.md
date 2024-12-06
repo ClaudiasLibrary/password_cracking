@@ -15,10 +15,4 @@ It supports common hash algorithms like MD5, SHA1, SHA256, and bcrypt.
 - Required libraries listed in `requirements.txt` (install via `pip`)
 
 ## Installation
-Clone this repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/password_cracking_tool.git
-cd password_cracking_tool
-pip install -r requirements.txt
-```
+Clone this repository and install the required dependencies
