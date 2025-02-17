@@ -51,3 +51,6 @@ Cracking completed in 3.45 seconds.
    - In this example, the password (`password`) is successfully cracked using the dictionary attack.
 4. **Time Taken**: The total cracking time is shown (e.g., `3.45 seconds`).
 5. **HTML Report**: A report is generated in HTML format, displaying the hash, hash type, and cracked password.
+
+## Useful resources
+[Cracking](https://claudiaslibrary.notion.site/Cracking-12c19f75683280ed9060c3c0fa57f9ca)
